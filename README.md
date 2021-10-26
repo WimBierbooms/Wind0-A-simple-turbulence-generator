@@ -4,3 +4,5 @@ random phases. In the Matlab function wind0 an alternative is used: the amplitud
 equals the turbulent (co) spectra. The details are given in this document: https://d2k0ddhflgrk1i.cloudfront.net/LR/Organisatie/Afdelingen/Aerodynamics__Wind_Energy__Flight_Performance_and_Propulsion/Wind_Energy/Research/wind0.doc
 
 https://www.researchgate.net/profile/Paul-Veers/publication/236362291_Three-Dimensional_Wind_Simulation/links/54ad96900cf2828b29fcae9e/Three-Dimensional-Wind-Simulation.pdf
+
+Wind Energy Group, Delft University of Technology, The Netherlands.
