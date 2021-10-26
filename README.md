@@ -1,1 +1,2 @@
 # Wind
+In the document of Paul Veers a stochastic wind field is obtained via summation of harmonics (cosine and sine functions) with amplitudes related to the turbulence spectrum and random phases. In the Matlab function wind0 an alternative is used: the amplitudes are random (and there are no phase angles). The covariance matrix of the random amplitudes equals the turbulent (co) spectra. The details are given in this document.
